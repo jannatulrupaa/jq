@@ -1,0 +1,13 @@
+#draggable {
+ width: 150px; 
+ height: 150px; 
+ padding: 0.5em; 
+ background-color: red;
+}
+ #droppable {
+  width: 160px;
+ height: 160px; 
+ padding: 0.5em; 
+ float: left; 
+ margin: 50; 
+}
